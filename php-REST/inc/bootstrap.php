@@ -1,5 +1,5 @@
 <?php
-const PROJECT_ROOT_PATH = __DIR__ . "/../";
+const PROJECT_ROOT_PATH = __DIR__ . "/php-REST/";
 
 // include main configuration file
 require_once PROJECT_ROOT_PATH . "/inc/config.php";
